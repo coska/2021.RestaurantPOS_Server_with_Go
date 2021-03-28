@@ -1,13 +1,14 @@
 # COSKA 2021 GoLan Study Projects
 # Configuration
-  Go Version +1.16
-  DBMS: Postgre SQL
+  * Go Version +1.16
+  * DBMS: Postgre SQL
+  * IDE: Visual Studio Code
 ## Fiber
 1. Reference: 
-  https://go.dev/
-  https://docs.gofiber.io/
-  https://docs.gofiber.io/guide/templates
-  https://www.postgresql.org/
+  * https://go.dev/
+  * https://docs.gofiber.io/
+  * https://docs.gofiber.io/guide/templates
+  * https://www.postgresql.org/
 
 2. Fiber install Installation
     ```bash
@@ -31,7 +32,7 @@
 
 
 ## Tip #1: when Visual Studio has problem with package/module version
- Reference: https://stackoverflow.com/questions/58518588/vscode-could-not-import-golang-package
+ * Reference: https://stackoverflow.com/questions/58518588/vscode-could-not-import-golang-package
   => Try moving your project out of the GOPATH, and setting up go.mod for it.
 
 
