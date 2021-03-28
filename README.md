@@ -1,10 +1,13 @@
 # COSKA 2021 GoLan Study Projects
-
+# Configuration
+  Go Version +1.16
+  DBMS: Postgre SQL
 ## Fiber
 1. Reference: 
+  https://go.dev/
   https://docs.gofiber.io/
   https://docs.gofiber.io/guide/templates
-
+  https://www.postgresql.org/
 
 2. Fiber install Installation
     ```bash
